@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/gson-2.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/commons-fileupload-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/mchange-commons-0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/c3p0-oracle-thin-extras-0.9.2-pre1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/commons-io-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/itcast-tools-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/mysql-connector-java-5.1.13-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/c3p0-0.9.2-pre1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/commons-collections-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/commons-lang-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/commons-beanutils-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/commons-dbutils-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/webapp/WEB-INF/lib/log4j-1.2.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
